@@ -62,6 +62,31 @@
       "version": "0.0.2"
     },
     {
+      "name": "网易",
+      "url": "https://13413.kstore.vip/yuanli/wy.js",
+      "version": "1.2.1"
+    },
+    {
+      "name": "酷我",
+      "url": "https://13413.kstore.vip/yuanli/kw.js",
+      "version": "1.2.1"
+    },
+    {
+      "name": "酷gou",
+      "url": "https://13413.kstore.vip/yuanli/kg.js",
+      "version": "1.2.1"
+    },
+    {
+      "name": "qq",
+      "url": "https://13413.kstore.vip/yuanli/qq.js",
+      "version": "1.2.1"
+    },
+    {
+      "name": "mg",
+      "url": "https://13413.kstore.vip/yuanli/xiaomi.js",
+      "version": "1.2.1"
+    },
+    {
       "name": "歌曲宝",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/gequbao.js",
       "version": "0.0.7"
